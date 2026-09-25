@@ -1,0 +1,56 @@
+# .NET / ASP.NET Core / Blazor
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+[Ll]og/
+[Ll]ogs/
+*.log
+*.pdb
+*.cache
+*.ilk
+*.meta
+*.obj
+*.exe
+*.dll
+*.app
+*.appx
+*.appxbundle
+*.msix
+*.publish/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+*.db
+*.db-shm
+*.db-wal
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+*.nuget.props
+*.nuget.targets
+
+# JetBrains Rider / IntelliJ
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local secrets
+secrets.json
+appsettings.Local.json
+
+# Others
+*.tmp
+*.temp
